@@ -10,7 +10,7 @@
 .bicicletas-lista ul {
   display: flex;
   gap: 40px;
-  padding: 0 20px 20px;
+  padding: 0 20px 20px 20px;
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
@@ -31,7 +31,7 @@
 }
 
 .bicicletas-lista h3 {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
   display: flex;
   align-items: center;
 }
